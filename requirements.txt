@@ -1,6 +1,6 @@
 fastapi
 uvicorn
-pydantic 1.10.7
+pydantic==1.10.7
 json
 pickle
 scikit-learn
